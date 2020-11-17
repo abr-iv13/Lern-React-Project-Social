@@ -1,0 +1,14 @@
+.dialogs {
+    padding: 1em;
+    display: flex;
+    font-size: 17px;
+    font-weight: bold;
+}
+ 
+.dialogs__items-block {
+    display: flex;
+    flex-direction: column;
+}
+.dialogs__items-block > a {
+    text-decoration: none;
+}

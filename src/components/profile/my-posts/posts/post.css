@@ -1,0 +1,15 @@
+
+.post {
+    display: flex;
+    flex-direction: column;
+}
+.post__img {
+    width: 80px;
+    border-radius: 10%;
+}
+
+.post__buttom {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}

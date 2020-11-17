@@ -1,0 +1,25 @@
+.navbar {
+    background-color: rgb(148, 148, 148);
+    height: 80vh;
+    border: 2px solid black;
+    padding: 1em;
+}
+.navbar__title {
+    text-align: center;
+}
+.navbar__menu {
+    list-style: none;
+}
+
+.navbar__menu > li >a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    line-height: 40px;
+    font-size: 20px;
+    
+}
+.navbar__menu a:active {
+    color: red;
+}
+
